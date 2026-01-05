@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Priyasha!
 
-![Typing Animation](./typing.gif)
+![Typing Animation](./gif.gif)
 
 ### 🚀 About Me
 - 💡 **Driven developer** with a passion for building robust, scalable, and efficient software solutions.
