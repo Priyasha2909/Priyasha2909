@@ -1,4 +1,6 @@
-# 👋 Hi there, I'm Priyasha!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&theme=outrun&height=200&section=header&text=%F0%9F%91%8B%20Hi%20there,%20I'm%20Priyasha!&fontSize=45&fontAlignY=35" />
+</p>
 
 ### 🚀 About Me
 - 💻 **Software Engineer II** with 4.5+ years of experience specializing in robust backend architectures.
